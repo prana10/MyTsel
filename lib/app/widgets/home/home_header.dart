@@ -28,8 +28,8 @@ class HomeHeader extends StatelessWidget {
             decoration: const BoxDecoration(
               color: Color(0xffEC2028),
               borderRadius: BorderRadius.only(
-                bottomLeft: Radius.circular(60),
-                bottomRight: Radius.circular(60),
+                bottomLeft: Radius.circular(30),
+                bottomRight: Radius.circular(30),
               ),
             ),
             child: Stack(
